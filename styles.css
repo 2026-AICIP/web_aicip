@@ -92,6 +92,7 @@ input, textarea { font-family: inherit; }
 }
 
 .nav-logo { flex-shrink: 0; }
+.nav-logo img { height: 44px; width: auto; }
 
 .nav-links {
   display: flex;
@@ -1030,6 +1031,7 @@ footer {
 }
 
 .footer-col--brand { display: flex; flex-direction: column; gap: 14px; }
+.footer-col--brand img { height: 44px; width: auto; }
 
 .footer-tagline {
   font-family: var(--font-body);
